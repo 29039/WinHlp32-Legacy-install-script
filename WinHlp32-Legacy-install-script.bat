@@ -2,7 +2,7 @@
 
 rem Description:
 rem WinHlp32 Legacy install script for Windows 10+ or Server 2016+ (Works so far on Win11 insider, Maybe ARM with emulation?)
-rem By 29039 https://github.com/29039/WinHlp32-Legacy-install-script/ 05 2021-08-05
+rem By 29039 https://github.com/29039/WinHlp32-Legacy-install-script/ 2021-08-05
 
 rem License:
 rem This script itself is LGPL 2.1, WinHlp32 is Copyright by Microsoft
