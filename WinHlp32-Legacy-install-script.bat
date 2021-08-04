@@ -78,7 +78,6 @@ mkdir "C:\Program Files\WinHlp32 Legacy\sv-SE"
 mkdir "C:\Program Files\WinHlp32 Legacy\tr-TR"
 mkdir "C:\Program Files\WinHlp32 Legacy\zh-CN"
 mkdir "C:\Program Files\WinHlp32 Legacy\zh-TW"
-mkdir "C:\Program Files\WinHlp32 Legacy\zz-japanese-wordbreaker-tbc"
 
 move /Y %wh-temp-build%_ar-sa_d2eb64369d8e397f\winhlp32.exe.mui "%wh-pf%\ar-SA"
 move /Y %wh-temp-build%_ar-sa_d2eb64369d8e397f\ftsrch.dll.mui "%wh-pf%\ar-SA"
